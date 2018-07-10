@@ -1,11 +1,12 @@
-package pl.time4it;
+package pl.time4it.dzien_1;
 
 
-public class Animal {
+public  class Animal {
 
     private String name;
     private int age;
     private Person owner;
+
 
     public Animal(String name, int age) {
         this.name = name;

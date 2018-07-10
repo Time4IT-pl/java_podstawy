@@ -1,4 +1,4 @@
-package pl.time4it;
+package pl.time4it.dzien_1;
 
 import java.util.Scanner;
 
