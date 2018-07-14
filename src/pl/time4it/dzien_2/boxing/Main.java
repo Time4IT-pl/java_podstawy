@@ -7,6 +7,7 @@ public class Main {
 
         int number = 10;
 
+
         //stworzenie obiektu Integer niejawnie.
         //To jest autoboxing.
         Integer numberInt = 10;
